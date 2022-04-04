@@ -6,7 +6,9 @@
 
 ## Contact information:[](https:/bosTM-code.github.io/rsschool-cv/cv#Contact information)
 
-###**E-mail** sberezhnyi@gmail.com ###**Discord** bosTM#9859 ###[**GitHub**](https://github.com/bosTM-code)
+**E-mail** sberezhnyi@gmail.com  
+**Discord** bosTM#9859  
+[**GitHub**](https://github.com/bosTM-code)
 
 ## Briefly About Myself:[](https:/bosTM-code.github.io/rsschool-cv/cv#briefly-about-myself)
 
